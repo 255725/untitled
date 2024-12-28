@@ -1,0 +1,3 @@
+D:/MyProgramFiles/JetBrains/CLion 2024.2.2/Projects/2024/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+D:/MyProgramFiles/JetBrains/CLion 2024.2.2/Projects/2024/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyProgramFiles/JetBrains/CLion 2024.2.2/Projects/2024/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
